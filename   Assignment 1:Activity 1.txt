@@ -1,0 +1,15 @@
+pseudocode: Function main  building a ham and cheese sandwich 
+
+Input Items needed to assemble sandwich 
+//Ham, Cheese, and bread
+Function main
+
+Processing 
+//“Put two pieces of ham together and slab it on top of open side on one piece of bread”
+//“Grab a slice of cheese and slab it on top of open side on one piece of bread”
+//“Put the slices of bread together, with facing each other on the side with ingredients” 
+Output
+//“Eat and enjoy”
+
+  
+   End function 
