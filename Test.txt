@@ -1,5 +1,0 @@
-
-
-Main
-..Dispaly "Hello, earth!"
-Output: "Hello, earth
